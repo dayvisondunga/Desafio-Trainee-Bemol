@@ -1,5 +1,5 @@
-from questao_01 import q1
+from questao_02 import q2
 
-aqui = q1.media()
+aqui = q2.ranking()
 
 print(aqui)

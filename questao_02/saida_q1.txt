@@ -1,0 +1,58 @@
+2.Qual o ranking de estados por média de PIB per capita no ano de 2010?
+Ranking dos estados por média de PIB per capita em 2010:
+
+Posição  -  Estado  -  Pib per capta médio
+
+1° - Distrito Federal - R$56252.90
+
+2° - Rio de Janeiro - R$27848.93
+
+3° - Mato Grosso do Sul - R$19915.60
+
+4° - Santa Catarina - R$19597.27
+
+5° - São Paulo - R$19402.11
+
+6° - Espírito Santo - R$19297.53
+
+7° - Rio Grande do Sul - R$19072.48
+
+8° - Mato Grosso - R$16370.50
+
+9° - Goiás - R$15908.97
+
+10° - Paraná - R$15077.53
+
+11° - Rondônia - R$11883.06
+
+12° - Minas Gerais - R$11266.88
+
+13° - Sergipe - R$11049.78
+
+14° - Amapá - R$10136.12
+
+15° - Roraima - R$9582.18
+
+16° - Tocantins - R$9386.66
+
+17° - Acre - R$8344.14
+
+18° - Pará - R$7716.04
+
+19° - Rio Grande do Norte - R$7234.38
+
+20° - Bahia - R$6989.95
+
+21° - Pernambuco - R$6606.93
+
+22° - Alagoas - R$5980.69
+
+23° - Amazonas - R$5788.66
+
+24° - Paraíba - R$5565.35
+
+25° - Ceará - R$5384.55
+
+26° - Maranhão - R$4545.54
+
+27° - Piauí - R$4533.86
