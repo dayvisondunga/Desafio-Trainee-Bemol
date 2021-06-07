@@ -1,5 +1,5 @@
-from questao_02 import q2
+from questao_03 import q3
 
-aqui = q2.ranking()
+aqui = q3.valorProporcao()
 
 print(aqui)
